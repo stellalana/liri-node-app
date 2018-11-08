@@ -22,3 +22,8 @@ movie-this allows users to enter the name of a movie and return release year, ra
 
 ### Random
 do-what-it-says showcases an ability to read commands from a text file and use it with a command. For the purposes of this project it will return the results for spotify-this-song, song name: "I Want it That Way." One can easily update the file random.txt to set this command to another task and submission.
+
+## How To Run on Your Machine
+1) Clone repository
+2) Install npm packages according to the included json
+3) Request your own Spotify API ID and Key here: https://developer.spotify.com/dashboard/login
