@@ -29,9 +29,17 @@ spotify-this-song allows users to enter the name of a song and return the artist
 
 ### Movies
 movie-this allows users to enter the name of a movie and return release year, ratings, production countries, languages, plot, and actors.
+###### When a movie name is submitted with the command
+![Movie-This-Image](/liriPics/movie-this%20movie.png?raw=true "When a movie name is submitted with the command")
+###### When no movie name is submitted with the command
+![](/liriPics/movie-this%20null.png?raw=true "When no movie name is submitted with the command")
 
 ### Random
 do-what-it-says showcases an ability to read commands from a text file and use it with a command. For the purposes of this project it will return the results for spotify-this-song, song name: "I Want it That Way." One can easily update the file random.txt to set this command to another task and submission.
+###### Default response
+![Do-What-It-Says-Image](/liriPics/do-what-it-says%20default.png?raw=true "When the command is entered and the random.txt file has not been altered")
+###### Altered response
+![](/liriPics/do-what-it-says%20altered.png?raw=true "Whenthe command is entered after the random.txt file has been altered")
 
 ## How To Run on Your Machine
 1) Clone repository
