@@ -53,7 +53,7 @@ function concertThis(enter){
 // spotify-this-song
 function spotifyThisSong(enter){
     if (enter == null){
-        enter = "The Sign"
+        enter = "The Sign Ace of Base"
     }
     spotify.search({type: 'track', query: enter}, function(err, data) {
         if (err) {
