@@ -27,4 +27,8 @@ do-what-it-says showcases an ability to read commands from a text file and use i
 1) Clone repository
 2) Install npm packages according to the included json
 3) Request your own Spotify API ID and Key here: https://developer.spotify.com/dashboard/login
-4) Once you have acquired your Spotify ID and Key, create 
+4) Once you have acquired your Spotify ID and Key, create a file named ".env" in the folder. 
+  In this file add these lines:
+  SPOTIFY_ID=<your id here>
+  SPOTIFY_SECRET=<your key here>
+
