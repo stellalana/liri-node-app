@@ -13,7 +13,7 @@ Available commands users can enter:
 
 ### Concerts
 concert-this allows users to enter the name of an artist and return up to 5 upcoming venues the artist will be playing and the concert dates.
-![concert command image](/liriPics/concert-this band.png?raw=true "concert command image")
+![concert command image](/liriPics/concert-this band.png?raw=true)
 
 ### Spotify
 spotify-this-song allows users to enter the name of a song and return the artists, song name, link to song, and album.
